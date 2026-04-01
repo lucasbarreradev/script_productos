@@ -44,9 +44,11 @@ Crear un archivo `.env` con:
 ### 1. Obtener token inicial
 ```bash
 python obtener_token_ml.py
+```bash
 ### 2. Ejecutar importador
 ```bash
 python script.py
+```bash
 
 ## Autor ✒️
 **Lucas Barrera**
