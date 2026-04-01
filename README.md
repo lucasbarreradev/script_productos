@@ -45,6 +45,7 @@ Crear un archivo `.env` con:
 ```bash
 python obtener_token_ml.py
 ### 2. Ejecutar importador
+```bash
 python script.py
 
 ## Autor ✒️
